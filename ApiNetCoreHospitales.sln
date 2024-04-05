@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiNetCoreHospitales", "ApiNetCoreHospitales\ApiNetCoreHospitales.csproj", "{BFC85176-6A43-4C55-8DB1-74894D889A55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFC85176-6A43-4C55-8DB1-74894D889A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFC85176-6A43-4C55-8DB1-74894D889A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFC85176-6A43-4C55-8DB1-74894D889A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFC85176-6A43-4C55-8DB1-74894D889A55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26E58115-D9A5-48BA-9D8B-BA64B8CAE6C3}
+	EndGlobalSection
+EndGlobal
